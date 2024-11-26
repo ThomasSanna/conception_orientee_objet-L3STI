@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1730735894.84262 "c:/Users/thoma/Desktop/programmes/L3STI/conception_orientee_objet-L3STI/TD2/TD2.tex" "TD2.pdf" "TD2" 1730735896.49699 0
+["pdflatex"] 1730736250.43682 "c:/Users/thoma/Desktop/programmes/L3STI/conception_orientee_objet-L3STI/TD2/TD2.tex" "TD2.pdf" "TD2" 1730736251.70212 0
   "C:/Users/thoma/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730735689 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/thoma/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1726420166 11548 e1e99e1e6596f05b6fdd1d9e144436b4 ""
   "C:/Users/thoma/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1726138001 24225046 7d2395529d242c981bb752dd68024bea ""
@@ -27,6 +27,7 @@
   "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty" 1721923356 18785 68479cdf1125ff4e246e1d01e45551a1 ""
+  "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
   "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
   "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/pdftex.def" 1663918690 19448 1e988b341dda20961a6b931bcde55519 ""
   "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty" 1665067579 18387 8f900a490197ebaf93c02ae9476d4b09 ""
@@ -38,9 +39,9 @@
   "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1696961617 4674 15ab6bdfc97f65b00e59c2867851f715 ""
   "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex" 1633253722 95525 6fd0552101a6b1f9b7a84b402ec435ba ""
   "C:/Users/thoma/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.sty" 1633253722 14690 c2c754218a7108db7823a4839c1bc3cd ""
-  "TD2.tex" 1730735847 8922 82b19c16d6ee99c2bc661654d25d63a2 ""
-  "aux_files/TD2.aux" 1730735896 745 8858a792ccdeed3d481af70667115cf3 "pdflatex"
-  "c:/Users/thoma/Desktop/programmes/L3STI/conception_orientee_objet-L3STI/TD2/TD2.tex" 1730735847 8922 82b19c16d6ee99c2bc661654d25d63a2 ""
+  "TD2.tex" 1730736249 8940 41f370c76f09172622586e39ce2d5c86 ""
+  "aux_files/TD2.aux" 1730736251 1005 c02e9c748d663f66b2385baf82449873 "pdflatex"
+  "c:/Users/thoma/Desktop/programmes/L3STI/conception_orientee_objet-L3STI/TD2/TD2.tex" 1730736249 8940 41f370c76f09172622586e39ce2d5c86 ""
   "exo2-1.png" 1730734764 44424 2185577f9126d042d4ad91804e92474f ""
   "exo2-2.png" 1730734798 42555 145187de52967e69738a944cb98f5d8b ""
   "exo3.png" 1729524743 63202 a2fc253c67d39646d4e899b55e72e2f2 ""

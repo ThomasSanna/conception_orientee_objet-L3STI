@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.12)  4 NOV 2024 16:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.12)  4 NOV 2024 17:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -52,49 +52,56 @@ Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footer
 \f@nch@O@erf=\skip56
 \f@nch@O@olf=\skip57
 \f@nch@O@orf=\skip58
+) (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count195
+\float@exts=\toks18
+\float@box=\box51
+\@float@everytoks=\toks19
+\@floatcapt=\box52
 ) (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2024-01-04 L3 programming layer (loader) 
  (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count195
-\l__pdf_internal_box=\box51
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box53
 ))
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count196
-\l__lipsum_a_int=\count197
-\l__lipsum_b_int=\count198
+\g__lipsum_par_int=\count197
+\l__lipsum_a_int=\count198
+\l__lipsum_b_int=\count199
  (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (c:\Users\thoma\Desktop\programmes\L3STI\conception_orientee_objet-L3STI\TD2\aux_files\TD2.aux)
 \openout1 = `TD2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
  (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count199
+\scratchcounter=\count266
 \scratchdimen=\dimen143
-\scratchbox=\box52
-\nofMPsegments=\count266
-\nofMParguments=\count267
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count268
+\scratchbox=\box54
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count269
 \MPscratchDim=\dimen144
-\MPnumerator=\count269
-\makeMPintoPDFobject=\count270
-\everyMPtoPDFconversion=\toks19
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks21
 ) (C:\Users\thoma\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -102,100 +109,85 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <6> on input line 23.
 <exo2-1.png, id=1, 481.8pt x 517.935pt>
 File: exo2-1.png Graphic file (type png)
 <use exo2-1.png>
-Package pdftex.def Info: exo2-1.png  used on input line 30.
+Package pdftex.def Info: exo2-1.png  used on input line 31.
 (pdftex.def)             Requested size: 345.0pt x 370.88182pt.
+ [1
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<exo2-2.png, id=3, 442.65375pt x 461.47406pt>
+{C:/Users/thoma/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<exo2-2.png, id=10, 442.65375pt x 461.47406pt>
 File: exo2-2.png Graphic file (type png)
 <use exo2-2.png>
-Package pdftex.def Info: exo2-2.png  used on input line 38.
+Package pdftex.def Info: exo2-2.png  used on input line 39.
 (pdftex.def)             Requested size: 345.0pt x 359.68777pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (1.61928pt too wide) in paragraph at lines 60--61
+ [2 <./exo2-1.png>] [3 <./exo2-2.png>]
+Overfull \hbox (1.61928pt too wide) in paragraph at lines 61--62
 []\OT1/cmr/bx/n/10 H^otesse/Stewart \OT1/cmr/m/n/10 (h^^Seritant de Per-son-nel-Nav-i-gant) : Repr^^Sesente
  []
 
-[1
-
-{C:/Users/thoma/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-Overfull \hbox (3.4601pt too wide) in paragraph at lines 121--122
+[4]
+Overfull \hbox (3.4601pt too wide) in paragraph at lines 122--123
 []\OT1/cmr/bx/n/10 PersonnelNavigant \OT1/cmr/m/n/10 et \OT1/cmr/bx/n/10 Per-son-nel-Non-Nav-i-gant \OT1/cmr/m/n/10 sont des sp^^Secialisations
  []
 
-<exo3.png, id=17, 703.87968pt x 449.42906pt>
+<exo3.png, id=25, 703.87968pt x 449.42906pt>
 File: exo3.png Graphic file (type png)
 <use exo3.png>
-Package pdftex.def Info: exo3.png  used on input line 127.
+Package pdftex.def Info: exo3.png  used on input line 128.
 (pdftex.def)             Requested size: 345.0pt x 220.28387pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (7.58464pt too wide) in paragraph at lines 145--146
+[5]
+Overfull \hbox (7.58464pt too wide) in paragraph at lines 146--147
 []\OT1/cmr/bx/n/10 InscriptionDipl^ome \OT1/cmr/m/n/10 : Repr^^Sesente l'inscription d'un ^^Setudiant ^^Ra un dipl^ome,
  []
 
 
-Overfull \hbox (8.64505pt too wide) in paragraph at lines 146--147
+Overfull \hbox (8.64505pt too wide) in paragraph at lines 147--148
 []\OT1/cmr/bx/n/10 InscriptionUE \OT1/cmr/m/n/10 : Repr^^Sesente l'inscription d'un ^^Setudiant ^^Ra une UE sp^^Secifique. 
  []
 
-[3]
-Overfull \hbox (0.93835pt too wide) in paragraph at lines 157--158
+[6 <./exo3.png>]
+Overfull \hbox (0.93835pt too wide) in paragraph at lines 158--159
 []\OT1/cmr/bx/n/10 InscriptionDipl^ome - []Etudiant \OT1/cmr/m/n/10 : Un ^^Setudiant peut s'inscrire ^^Ra plusieurs
  []
 
-[4]
-Overfull \hbox (8.82448pt too wide) in paragraph at lines 212--213
+[7]
+Overfull \hbox (8.82448pt too wide) in paragraph at lines 213--214
 \OT1/cmr/m/n/10 Il n'y a pas de g^^Sen^^Seralisations ^^Sevidentes ^^Ra ce stade. Les classes d^^Secrites repr^^Sesentent
  []
 
-<exo4.png, id=24, 776.14969pt x 482.55281pt>
+<exo4.png, id=37, 776.14969pt x 482.55281pt>
 File: exo4.png Graphic file (type png)
 <use exo4.png>
-Package pdftex.def Info: exo4.png  used on input line 216.
+Package pdftex.def Info: exo4.png  used on input line 217.
 (pdftex.def)             Requested size: 345.0pt x 214.49602pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<exo5.png, id=25, 780.9175pt x 775.89874pt>
+<exo5.png, id=38, 780.9175pt x 775.89874pt>
 File: exo5.png Graphic file (type png)
 <use exo5.png>
-Package pdftex.def Info: exo5.png  used on input line 224.
+Package pdftex.def Info: exo5.png  used on input line 225.
 (pdftex.def)             Requested size: 345.0pt x 342.7817pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[5] [6 <./exo2-1.png>] [7 <./exo2-2.png>] [8 <./exo3.png> <./exo4.png>] [9 <./exo5.png (PNG copy)>] (c:\Users\thoma\Desktop\programmes\L3STI\conception_orientee_objet-L3STI\TD2\aux_files\TD2.aux)
+[8 <./exo4.png>] [9 <./exo5.png (PNG copy)>] (c:\Users\thoma\Desktop\programmes\L3STI\conception_orientee_objet-L3STI\TD2\aux_files\TD2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1968 strings out of 474486
- 36347 string characters out of 5743755
- 1936542 words of memory out of 5000000
- 24270 multiletter control sequences out of 15000+600000
+ 2039 strings out of 474486
+ 37466 string characters out of 5743755
+ 1935542 words of memory out of 5000000
+ 24337 multiletter control sequences out of 15000+600000
  562659 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,12n,93p,294b,362s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,12n,93p,294b,359s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\thoma\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/thoma/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on c:\Users\thoma\Desktop\programmes\L3STI\conception_orientee_objet-L3STI\TD2\aux_files\TD2.pdf (9 pages, 355109 bytes).
+Output written on c:\Users\thoma\Desktop\programmes\L3STI\conception_orientee_objet-L3STI\TD2\aux_files\TD2.pdf (9 pages, 355715 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
